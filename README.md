@@ -16,8 +16,8 @@ Senior Consultant specializing in Digital Strategy, Search Engine Optimization (
 ## 🛠️ Tech Stack & Tooling
 
 ### 🤖 Artificial Intelligence & Agentic Workflows
-- **Local LLMs**: Ollama, AnythingLLM, Open-source models (Llama, Mistral, Qwen)
-- **AI Coding**: Claude Code, Advanced Agentic Pipelines, Skills and Loops
+- **Local LLMs**: Ollama, AnythingLLM, Open-source models (Qwen, Gemma)
+- **AI Coding**: Claude Code, Antigravity
 - **GAIO**: Specializing in Generative AI Optimization to ensure brand visibility across LLM search engines.
 
 ### 🐍 Development & Environments
@@ -33,8 +33,8 @@ Senior Consultant specializing in Digital Strategy, Search Engine Optimization (
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nord&langs_count=6" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wingerter&show_icons=true&theme=nord&count_private=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wingerter&layout=compact&theme=nord&langs_count=6" alt="Top Languages" height="180px"/>
 </p>
 
 ---
